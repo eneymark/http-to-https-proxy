@@ -1,0 +1,10 @@
+{
+  "name": "proxy",
+  "author" : "Eugene Neymark",
+  "version": "0.0.0",
+  "devDependencies": {
+    "http": "latest",
+    "http-proxy": "latest",
+    "forever": "latest"//will use that to run as daemon
+  }
+}
